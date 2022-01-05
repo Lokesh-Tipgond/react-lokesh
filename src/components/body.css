@@ -1,0 +1,50 @@
+.Body-page{
+    width: 99vw;
+   
+    height: 160vh;
+    display: flex;
+}
+.side-bar{
+    border: 1px solid black;
+    width: 15%;
+    height: 100%;
+    display: block;
+    justify-content: center;
+    background: rgb(15, 110, 177); ;;
+    
+}
+
+.content-page{
+    height: 100%;
+    width: 85%;
+    background:#f8f8f8;
+    
+   
+}
+.side-menu{
+ padding: 10px;
+ margin-top: 10px;
+ color: white;
+ font-weight: 650;
+ margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+}
+.side-menu:hover{
+    color: rgb(15, 110, 177);;
+    background: white;
+    transition: 1s;
+    cursor: pointer;
+    
+}
+.active{
+    color: rgb(15, 110, 177);;
+    background: white;
+    
+}
+
+
+
+ 

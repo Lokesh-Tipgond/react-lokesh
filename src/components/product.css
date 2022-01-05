@@ -1,0 +1,128 @@
+.content-page{
+    height: 100%;
+    width: 85%;
+   
+   }
+   .images-page{ 
+       display: block;
+      }
+
+.images{ 
+    width:40% ;
+    height: 20%;
+ }
+ .para{ 
+padding: 10px;
+border: 2px solid gray;
+font-weight: 600;
+background: #f8f8f8;
+box-shadow:black;
+z-index: 10;
+font-family: sans-serif;
+line-height: 1.3;
+
+ }
+.start{ 
+   margin-left: 10px;
+   background: #f8f8f8;;
+  
+ }
+ .image-slider{ 
+  display: flex;
+  justify-content: center ;
+  }
+  .row-3{ 
+   width: 100%;
+   height: 400px;
+  border: 2px solid grey;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   box-shadow: black;
+   
+  }
+ .first{ 
+    border: 1px solid grey;
+    width:43%;
+    height: 95%;
+    }
+    .News{ 
+        background: rgb(61, 60, 60);
+        color: rgb(228, 222, 222);
+        padding: 1px;
+        width: 100%;
+        height: 8%;
+        display: flex;
+        align-items: center;
+        font-size: 1rem;
+    }
+    .second-row{  
+        height: 92%;
+        width: 100%;
+        display: flex;
+    }
+    .Rbox-1{  
+        height: 100%;
+        width: 50%;
+    } 
+    
+    .Rbox-2{  
+        height: 100%;
+        width: 50%;
+        background: rgba(35, 140, 211, 0.842);
+    } 
+.second{ 
+    border: 1px solid grey;
+        width: 27%;
+        height: 95%;
+        }
+.third{ 
+    border: 1px solid grey;
+            width:27%;
+            height: 95%;
+            }
+.border{  
+border: 1px solid rgba(35, 140, 211, 0.842);
+padding-left: 2px;
+font-size: 0.9rem;
+font-family: sans-serif;
+margin-top: 3px;
+            }
+.border:hover{ 
+    background:rgba(35, 140, 211, 0.842); ;
+    cursor: pointer;
+            }
+.last-border{ 
+   text-align: end;
+   color:rgba(35, 140, 211, 0.842); ; ;
+   padding: 8px;
+            }
+.link{  
+    text-decoration: none;
+    color: black;
+}
+.Rbox-2a{  
+    height: 50%;
+    width: 100%;
+}
+.Rbox-2b{  
+    height: 50%;
+    width: 100%;  
+}
+.Button{  
+    color: rgb(44, 140, 230);
+}
+
+.Button:hover{  
+   font-weight: 600;
+   cursor: pointer;
+}
+.Rbox-2aimage{  
+    height: 96%;
+    width: 96%;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 5px;
+   margin-right: 5px;
+
+}

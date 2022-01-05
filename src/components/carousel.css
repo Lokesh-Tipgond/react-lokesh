@@ -1,0 +1,36 @@
+.carousel{ 
+    width: 1000px;
+    height: 400px;
+    margin-top: 20px;
+ }
+ .inner-carousel{ 
+    width:100%;
+    height: 100%;
+ 
+ }
+ .carousel-image{ 
+    width:100%;
+    height: 100%;
+}
+.slider-leftbtn{
+   position: relative;
+   bottom: 200px;
+   background: transparent;
+   border: none;
+   color: black;
+   
+  
+} 
+.slider-rightbtn{
+   position: relative;
+   bottom: 200px;
+   left: 930px;
+   background: transparent;
+   color: black;
+   border: none;
+} 
+.slider-rightbtn:hover ,.slider-leftbtn:hover{
+background: white;
+color: black;
+cursor: pointer;
+} 
